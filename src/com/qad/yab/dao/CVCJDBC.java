@@ -4,9 +4,6 @@ import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
 
-/**
- * CVC Data Access Object for connecting to sqlite database
- */
 public class CVCJDBC {
 	private Connection conn;
 
